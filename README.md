@@ -39,11 +39,10 @@
   <li>Pump Speed vs Stress at Rod Top,</li>
   <li>Pump Speed vs Pump Displacement Rate,</li>
   <li>Pump Speed vs Oil Production Rate.</li>
-
-<ul>
-    <li>The code also gives the maximum pumping speed, and the limiting condition of the speed, such as the peak polished rod load limit and the peak torque limit of the unit.</li>
 </ul>
-
+<ul>
+  <li>The code also gives the maximum pumping speed, and the limiting condition of the speed, such as the peak polished rod load limit and the peak torque limit of the unit.</li>
+</ul>
 <div><br /></div>
 <div><b>Sample Figures:</b></div>
 <div><br /></div>
@@ -54,7 +53,7 @@
         <tr>
             <td style="text-align: center;">
                 <a href="x.jpg" style="margin-left: auto; margin-right: auto;">
-                    <img border="0" data-original-height="711" data-original-width="1109" height="410" src="y.jpg" width="640" />
+                    <img border="0" data-original-height="711" data-original-width="1109" height="410" src="out/SRP_BEFORE.jpg" width="640" />
                 </a>
             </td>
         </tr>
@@ -74,7 +73,7 @@
         <tr>
             <td style="text-align: center;">
                 <a href="z.jpg" style="margin-left: auto; margin-right: auto;">
-                    <img border="0" data-original-height="69" data-original-width="715" height="62" src="k.jpg" width="640" />
+                    <img border="0" data-original-height="69" data-original-width="715" height="62" src="out/SRP_Result1.jpg" width="640" />
                 </a>
             </td>
         </tr>
@@ -92,7 +91,7 @@
         <tr>
             <td style="text-align: center;">
                 <a href="m.jpg" style="margin-left: auto; margin-right: auto;">
-                    <img border="0" data-original-height="712" data-original-width="1112" height="410" src="l.jpg" width="640" />
+                    <img border="0" data-original-height="712" data-original-width="1112" height="410" src="out/SRP_Result2.jpg" width="640" />
                 </a>
             </td>
         </tr>
@@ -110,7 +109,7 @@
         <tr>
             <td style="text-align: center;">
                 <a href="i.jpg" style="margin-left: auto; margin-right: auto;">
-                    <img border="0" data-original-height="710" data-original-width="1111" height="410" src="h.jpg" width="640" />
+                    <img border="0" data-original-height="710" data-original-width="1111" height="410" src="out/SRP_Result3.jpg" width="640" />
                 </a>
             </td>
         </tr>
