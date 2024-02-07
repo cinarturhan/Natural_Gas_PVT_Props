@@ -1,5 +1,7 @@
 # Sucker Rod Pump Analysis
-
+***
+_Created by Çınar Turhan in 2021_
+***
 <p>In this project, I wrote a MATLAB code to calculate the performance of a sucker rod pump with respect to pumping speed. I am still working on the user interface part since the program takes plenty of parameters.&nbsp;</p>
 
 <p>The code in this project is completed and the calculations are accurate. I double-checked every parameter in my code using the "SuckerRodPumpingLoad.xls" file, which is the companion software of the book "Petroleum Production Engineering" by Boyun Guo.&nbsp;</p>
@@ -125,3 +127,4 @@
 <div><br /></div>
 <div><br /></div>
 <div><br /></div>
+
