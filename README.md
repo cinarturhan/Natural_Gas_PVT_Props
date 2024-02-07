@@ -52,7 +52,7 @@
     <tbody>
         <tr>
             <td style="text-align: center;">
-                <a href="x.jpg" style="margin-left: auto; margin-right: auto;">
+                <a href="SRP_BEFORE.jpg" style="margin-left: auto; margin-right: auto;">
                     <img border="0" data-original-height="711" data-original-width="1109" height="410" src="out/SRP_BEFORE.jpg" width="640" />
                 </a>
             </td>
@@ -72,7 +72,7 @@
     <tbody>
         <tr>
             <td style="text-align: center;">
-                <a href="z.jpg" style="margin-left: auto; margin-right: auto;">
+                <a href="SRP_Result1.jpg" style="margin-left: auto; margin-right: auto;">
                     <img border="0" data-original-height="69" data-original-width="715" height="62" src="out/SRP_Result1.jpg" width="640" />
                 </a>
             </td>
@@ -90,7 +90,7 @@
     <tbody>
         <tr>
             <td style="text-align: center;">
-                <a href="m.jpg" style="margin-left: auto; margin-right: auto;">
+                <a href="SRP_Result2.jpg" style="margin-left: auto; margin-right: auto;">
                     <img border="0" data-original-height="712" data-original-width="1112" height="410" src="out/SRP_Result2.jpg" width="640" />
                 </a>
             </td>
@@ -108,7 +108,7 @@
     <tbody>
         <tr>
             <td style="text-align: center;">
-                <a href="i.jpg" style="margin-left: auto; margin-right: auto;">
+                <a href="SRP_Result3.jpg" style="margin-left: auto; margin-right: auto;">
                     <img border="0" data-original-height="710" data-original-width="1111" height="410" src="out/SRP_Result3.jpg" width="640" />
                 </a>
             </td>
